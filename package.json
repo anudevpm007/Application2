@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "next lint",
     "deploy:local": "next build && pm2 startOrRestart ecosystem.config.js --env local ",
-    "run:local": "pm2 startOrRestart ecosystem.config.js --env local"
+    "run:local": "pm2 startOrRestart ecosystem.config.js --env local",
+    "run:prod": "pm2 startOrRestart ecosystem.config.js --env prod"
   },
   "dependencies": {
     "next": "15.1.3",
