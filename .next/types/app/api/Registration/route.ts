@@ -1,4 +1,4 @@
-// File: C:\Users\anude\Desktop\web\astraliva\app\api\Registration\route.js
+// File: C:\GitHub\website\app\api\Registration\route.js
 import * as entry from '../../../../../app/api/Registration/route.js'
 import type { NextRequest } from 'next/server.js'
 

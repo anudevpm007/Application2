@@ -1,4 +1,4 @@
-// File: C:\Users\anude\Desktop\web\astraliva\app\carrier\page.js
+// File: C:\GitHub\website\app\carrier\page.js
 import * as entry from '../../../../app/carrier/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
