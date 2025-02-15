@@ -1,15 +1,16 @@
 {
+  "/api/post/route": "app/api/post/route.js",
   "/api/GetInTouch/route": "app/api/GetInTouch/route.js",
-  "/api/Registration/route": "app/api/Registration/route.js",
-  "/api/SUB/route": "app/api/SUB/route.js",
   "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/api/Registration/route": "app/api/Registration/route.js",
   "/_not-found/page": "app/_not-found/page.js",
-  "/Blog/page": "app/Blog/page.js",
-  "/Registration/page": "app/Registration/page.js",
   "/[slug]/page": "app/[slug]/page.js",
   "/WhoWeAre/page": "app/WhoWeAre/page.js",
+  "/Blog/[slug]/page": "app/Blog/[slug]/page.js",
+  "/Registration/page": "app/Registration/page.js",
   "/carrier/page": "app/carrier/page.js",
   "/carrier/[open]/page": "app/carrier/[open]/page.js",
+  "/test/page": "app/test/page.js",
   "/page": "app/page.js",
-  "/test/page": "app/test/page.js"
+  "/Blog/page": "app/Blog/page.js"
 }
