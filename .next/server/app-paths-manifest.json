@@ -3,13 +3,13 @@
   "/api/Registration/route": "app/api/Registration/route.js",
   "/favicon.ico/route": "app/favicon.ico/route.js",
   "/_not-found/page": "app/_not-found/page.js",
-  "/Blog/[slug]/page": "app/Blog/[slug]/page.js",
-  "/Blog/page": "app/Blog/page.js",
-  "/Careers/page": "app/Careers/page.js",
   "/Registration/page": "app/Registration/page.js",
-  "/[slug]/page": "app/[slug]/page.js",
+  "/Blog/page": "app/Blog/page.js",
   "/WhoWeAre/page": "app/WhoWeAre/page.js",
+  "/Careers/[open]/page": "app/Careers/[open]/page.js",
+  "/Blog/[slug]/page": "app/Blog/[slug]/page.js",
   "/test/page": "app/test/page.js",
-  "/page": "app/page.js",
-  "/Careers/[open]/page": "app/Careers/[open]/page.js"
+  "/Careers/page": "app/Careers/page.js",
+  "/[slug]/page": "app/[slug]/page.js",
+  "/page": "app/page.js"
 }
