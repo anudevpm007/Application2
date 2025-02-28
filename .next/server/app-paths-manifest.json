@@ -1,17 +1,17 @@
 {
   "/api/GetInTouch/route": "app/api/GetInTouch/route.js",
   "/api/Registration/route": "app/api/Registration/route.js",
-  "/sitemap.xml/route": "app/sitemap.xml/route.js",
   "/robots.txt/route": "app/robots.txt/route.js",
   "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/Careers/[open]/page": "app/Careers/[open]/page.js",
-  "/Blog/[slug]/page": "app/Blog/[slug]/page.js",
+  "/sitemap.xml/route": "app/sitemap.xml/route.js",
   "/_not-found/page": "app/_not-found/page.js",
+  "/Blog/[slug]/page": "app/Blog/[slug]/page.js",
+  "/Registration/page": "app/Registration/page.js",
   "/Blog/page": "app/Blog/page.js",
   "/Careers/page": "app/Careers/page.js",
-  "/Registration/page": "app/Registration/page.js",
   "/WhoWeAre/page": "app/WhoWeAre/page.js",
   "/[slug]/page": "app/[slug]/page.js",
-  "/test/page": "app/test/page.js",
-  "/page": "app/page.js"
+  "/Careers/[open]/page": "app/Careers/[open]/page.js",
+  "/page": "app/page.js",
+  "/test/page": "app/test/page.js"
 }

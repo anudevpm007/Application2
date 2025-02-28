@@ -1,6 +1,4 @@
 User-Agent: *
 Allow: /
-Allow: /WhoWeAre
-Disallow: /private/
 
-Sitemap: https://astraliva.com/sitemap.xml
+Sitemap: https://www.astraliva.com/sitemap.xml
